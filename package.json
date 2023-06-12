@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Jessica Serna, Sol Serna",
+  "author": "Jessica Serna Vargas, Sol Serna Vargas",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
